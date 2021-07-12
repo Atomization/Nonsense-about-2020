@@ -28,5 +28,5 @@
 
 &emsp;&emsp;我又想我的朋友们了。
 
-<font color=#A9A9A9>Edited Dec 28,2020</font>
+<font color=DarkGray>Edited Dec 28,2020</font>
 
